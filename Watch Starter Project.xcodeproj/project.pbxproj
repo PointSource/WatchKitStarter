@@ -86,7 +86,7 @@
 		9D8205571B4C2701009D9F2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		9D8205631B4C295C009D9F2B /* Watch Starter-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Watch Starter-Bridging-Header.h"; sourceTree = "<group>"; };
 		9D8205671B4C29B9009D9F2B /* Watch Starter WatchKit Extension-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Watch Starter WatchKit Extension-Bridging-Header.h"; sourceTree = "<group>"; };
-		9DA5151A1B4C2D9C007AA717 /* GettingStarted.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = GettingStarted.pdf; sourceTree = "<group>"; };
+		9DA5151A1B4C2D9C007AA717 /* GettingStarted.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = GettingStarted.pdf; path = ../GettingStarted.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
